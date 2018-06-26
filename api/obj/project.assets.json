@@ -11512,11 +11512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Dev\\Learning\\Dotnet\\api\\api.csproj",
+      "projectUniqueName": "c:\\Dev\\Learning\\Dotnet\\numbertrivia\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "c:\\Dev\\Learning\\Dotnet\\api\\api.csproj",
+      "projectPath": "c:\\Dev\\Learning\\Dotnet\\numbertrivia\\api\\api.csproj",
       "packagesPath": "C:\\Users\\tudor.hoinaru\\.nuget\\packages\\",
-      "outputPath": "c:\\Dev\\Learning\\Dotnet\\api\\obj\\",
+      "outputPath": "c:\\Dev\\Learning\\Dotnet\\numbertrivia\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
