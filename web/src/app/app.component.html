@@ -1,0 +1,17 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container">
+  <div class="row">
+    <div class="form-inline">
+      <div class="form-group mb-2">
+        <label class="mr-1" for="inputNumber">Input Number</label>
+        <input class="mr-1 form-control" id="inputNumber" [(ngModel)]="number" name="inputNumber" type="text">
+      </div>
+      <button class="btn btn-outline-success mb-2" (click)="getTrivia()">Get Trivia</button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="well bg-success">
+      <span>{{ trivia?.text }}</span>
+    </div>
+  </div>
+</div>
